@@ -9,7 +9,7 @@ public class test7 {
 			i++;
 			sum1 = sum1 + i;
 		}
-		System.out.println(sum1);
+		System.out.println("The addition of numbers between 0 and 101 is: "+sum1);
 
 		// B- Right Answer
 		int sum2 = 0;
@@ -18,6 +18,6 @@ public class test7 {
 			n++;
 			sum2 = sum2 + n;
 		}
-		System.out.println(sum2);
+		System.out.println("The addition of numbers between 0 and 100 is: "+sum2);
 	}
 }
